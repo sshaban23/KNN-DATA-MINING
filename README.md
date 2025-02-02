@@ -1,4 +1,4 @@
-# KNN-DATA-MINING
+# KNN-Data-Mining
 
 A1: PROPOSAL OF QUESTION:
 
