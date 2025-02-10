@@ -4,7 +4,6 @@ A1: PROPOSAL OF QUESTION:
 
 What factors predict the category of monthly charges for customers?
 
-
 A2: DEFINED GOAL:
 
 My goal for this data analysis is to find out what factors predict the category of monthly charges (low = 1, medium = 2, high = 3) for our customers. This is possible with the data we have, as it includes many features like demographics, service usage, and contract details that might influence monthly charges. By categorizing the MonthlyCharge into groups, cleaning and preprocessing the data, and selecting relevant features, I can train classification models like KNN to make these predictions. Evaluating the models will help me understand which factors are most important. This will help the company target the right customers with specific service deals, improve customer satisfaction, and increase revenue.
